@@ -9,7 +9,7 @@ Para referência adicional, considere as seguintes seções:
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.2.0.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
 
 ### Guides
-The following guides illustrate how to use some features concretely:
+Os guias a seguir ilustram como usar alguns recursos de forma concreta:
 
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
